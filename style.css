@@ -1,0 +1,130 @@
+div{
+    border:0px solid green;
+    min-height: 0px;
+}
+main{
+    border:0px solid green;
+    min-height: 0px;
+    
+}
+.padding-top{
+    padding-top:4rem;
+}
+.orange{
+    background-color: #E28525;
+    border-radius: 16px 0px 0px 16px;
+}
+.pale-green{
+    background-color: #016972;
+}
+.dark-green{
+    background-color: #00403F;
+    border-radius: 0px 15px 15px 0px;
+}
+.vehicle-icon{
+    padding-top: 3rem;
+    padding-left:1.6rem;
+
+}
+.vehicle{
+
+font-family: 'Big Shoulders Display', cursive;
+font-weight: 700px;
+color:white;
+padding-top:1.6rem;
+padding-left: 1.8rem;
+padding-bottom: 2rem;
+}
+.sedan-content{
+    font-family: 'Lexend Deca', sans-serif;
+    color:#FAC98B;
+    font-weight: 400;
+    font-size:15px;
+    padding-left: 1.8rem;
+    margin-bottom: 0rem;
+
+
+}
+
+.suv-content{
+    color:#93D8E2;
+    font-family: 'Lexend Deca', sans-serif;
+    font-weight: 400;
+    font-size:15px;
+    padding-left: 1.8rem;
+    margin-bottom: 0rem;
+}
+
+.luxury-content{
+     font-family: 'Lexend Deca', sans-serif;
+    color:#94C0BF;
+    font-weight: 400;
+    font-size:15px;
+    padding-left: 1.8rem;
+    margin-bottom: 0rem;
+
+
+    
+}
+
+.my-btn{
+    
+    color:white;
+    border-radius: 27px;
+    border:0px solid white;
+    height: 50px;
+    padding:20px 28px;
+    font-size:18px;
+    text-align: center;
+    display:inline-block;
+    margin-left:1.8rem;
+    text-align: center;
+    margin-bottom: 4rem;
+    margin-top: 2rem;
+    background-color: white;
+   
+}
+
+.orange-text{
+    font-size: medium;
+   font-family: 'Lexend Deca', sans-serif;
+   text-align: center;
+   padding-top: 12px;
+   padding-bottom: 29px;
+   color:#E28525;
+}
+
+.pale-text{
+    font-size: medium;
+   font-family: 'Lexend Deca', sans-serif;
+   text-align: center;
+   padding-top: 12px;
+   padding-bottom: 29px;
+   color: #016972;
+}
+
+.green-text{
+    font-size: medium;
+   font-family: 'Lexend Deca', sans-serif;
+   text-align: center;
+   padding-top: 12px;
+   padding-bottom: 29px;
+   color:#00403F;
+}
+
+    
+@media only screen and (max-width: 600px){
+    .orange{
+    background-color: #E28525;
+    border-radius: 16px 16px 0px 0px;
+}
+.pale-green{
+    background-color: #016972;
+}
+.dark-green{
+    background-color: #00403F;
+    border-radius: 0px 0px 16px 16px;
+    margin-bottom: 25px;
+}
+
+}
